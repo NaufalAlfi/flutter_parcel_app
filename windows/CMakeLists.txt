@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(flutter_parcel_app LANGUAGES CXX)
+project(pretest_kuis1 LANGUAGES CXX)
 
-set(BINARY_NAME "flutter_parcel_app")
+set(BINARY_NAME "pretest_kuis1")
 
 cmake_policy(SET CMP0063 NEW)
 
